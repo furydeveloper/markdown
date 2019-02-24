@@ -1,22 +1,23 @@
-How to use markdown
-====================
+Markdown
+========
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 # 1. 헤더(Headers)
  * 큰제목 : 문서 제목  
-   `This is an H1`  
-   `=============`
+    `This is an H1`  
+    `=============`
 
  * 작은제목 : 문서 부제목  
-   `This is an H2`  
-   `-------------`
+    `This is an H2`  
+    `-------------`
     
  * 글머리 : 1~6까지만 지원
-   `# This is an H1`  
-   `## This is an H2`  
-   `### This is an H3`  
-   `#### This is an H4`  
-   `##### This is an H5`  
-   `###### This is an H6`  
+    `# This is an H1`  
+    `## This is an H2`  
+    `### This is an H3`  
+    `#### This is an H4`  
+    `##### This is an H5`  
+    `###### This is an H6`  
     
     
 # 2. 강조(Emphasis)
@@ -31,17 +32,17 @@ How to use markdown
 
 # 3. 리스트(Lists)
  * Unordered  
-   `* Item 1`  
-   `* Item 2`  
-   `* Item 2a`  
-   `* Item 2b`  
+    `* Item 1`  
+    `* Item 2`  
+    &nbsp;&nbsp;&nbsp;&nbsp;`* Item 2a`  
+    &nbsp;&nbsp;&nbsp;&nbsp;`* Item 2b`  
  
  * Ordered  
-   `1. Item 1`  
-   `1. Item 2`  
-   `1. Item 3`  
-      `1. Item 3a`  
-      `1. Item 3b`  
+    `1. Item 1`  
+    `1. Item 2`  
+    `1. Item 3`  
+    &nbsp;&nbsp;&nbsp;&nbsp;`1. Item 3a`  
+    &nbsp;&nbsp;&nbsp;&nbsp;`1. Item 3b`  
  
  
 # 4. 이미지(Images)
